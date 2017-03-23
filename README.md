@@ -15,6 +15,8 @@ Your repository must include a `readme.md` that answers the following questions 
 - What is your opinion on the technology after having built something with it?
 - What are the biggest conceptual hurdles (if any) you encountered when researching this?
 - What resources do you recommend for interested students?
+https://guides.emberjs.com/v2.12.0/getting-started/quick-start/
+http://fromrailstoember.com/
   - What article or forum was most helpful to you in learning this?
 - What are 3 interview questions one might be asked about this technology?
 
